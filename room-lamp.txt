@@ -1,5 +1,6 @@
 create 10 lamps with swicth
 create rooms consist of : dining room, living room, famlily room, bed room and the lamps
 create switch every room
+create one switch for all
 create the background with matching background condition
 make it better to be a simple apps for simple samrt home
