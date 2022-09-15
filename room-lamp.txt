@@ -1,4 +1,5 @@
 create 10 lamps with swicth
+-finish the code for every lamp (one by one)
 create rooms consist of : dining room, living room, famlily room, bed room and the lamps
 create switch every room
 create one switch for all
